@@ -1,6 +1,1 @@
-People have priorities..
-For example,we have many unwanted messages/images daily as emails,Whatsapps,in Slack,Messanger etc.
-Sometimes we may not see what we have to , or events we like..
-What if we had a software solely to sort these kinds of messages and show it to us..
-
-P.S : We can lern use priorities probably by ML
+The idea is to develop a  personalised software to notify the user about important messages,events etc arriving on different platforms like Whatsapp,Slack,Messanger etc .We have many instances where we get 500+ messages on Whatsapp.As a result,people miss out on the activities they are interested.

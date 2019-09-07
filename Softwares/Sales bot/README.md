@@ -1,4 +1,4 @@
-We have Alexa and Siri in the tech world which serves the role of personal assistant.
-What about a new Alexa/Siri like that serves a specific purpose
-For example, we have people who have difficulty talking or have to do a sales talk.They can talk to this bot and work on their skills whenever and wherever they want.
-Sounds difficult ryt..But what if it works
+Developing a virtual assistant that serves a purpose like Alexa and Siri.For ex,Alexa and Siri serves the purpose of an assisstant.
+Likewise , a special-purpose bot that trains people the way to communicate and train people in sales.It is also helpful for children with difficulty to talk,since it acts like a virtual friend.
+
+
